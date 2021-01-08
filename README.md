@@ -1,3 +1,4 @@
 # cv 
 
-https://shivendrakr.github.io/cv/
+
+https://skjha1.github.io/cv/
